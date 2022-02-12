@@ -1,6 +1,5 @@
 # React -- GraphQL
-![Project example!](/public/remixExample.png)
-## Simple "demo" project to add fetch data with GraphQL and use GraphQL Codegen to help Typescript
+## Simple "demo" project to fetch data with GraphQL and use GraphQL Codegen to help Typescript
 
 - React
 - React-query
